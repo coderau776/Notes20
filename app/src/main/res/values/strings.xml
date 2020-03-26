@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notes 2.0</string>
+    <string name="notes_2_0">Notes 2.0</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+
+    <string name="create_new_account_sign_up">Create New Account.Sign Up</string>
+    <string name="login">Login</string>
+    <string name="lets_create_something">Lets create something...</string>
+    <string name="title">title</string>
+    <string name="desc">desc</string>
+    <string name="description">Description</string>
+    <string name="update_note">Update Note</string>
+    <string name="utitle">Title</string>
+
+</resources>
